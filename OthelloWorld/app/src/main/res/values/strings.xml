@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">OthelloWorld</string>
+    <string name="reset_game">Reset Game</string>
+    <string name="_blank" />
+    <string name="_2">2</string>
+    <string name="current_turn">Current Turn</string>
+    <string name="black">Black</string>
+    <string name="white">White</string>
+    <string name="othello_world">Othello World</string>
+</resources>
